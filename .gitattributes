@@ -1,0 +1,11 @@
+# Fin de línea consistente en el repo (útil en equipos Windows/Linux)
+* text=auto eol=lf
+
+# Binarios explícitos
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.webp binary
+*.pdf binary
